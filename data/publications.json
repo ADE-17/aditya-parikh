@@ -1,5 +1,23 @@
 [
   {
+    "title": "False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation",
+    "authors": "Linus Juni, Aasa Feragen, Aditya Parikh",
+    "venue": "MICCAI FAIMI Workshop",
+    "year": 2026,
+    "tags": [
+      "workshop",
+      "last-author",
+      "fairness"
+    ],
+    "thumbnail": "assets/photos/logo.png",
+    "description": "Demonstrates how automated ground-truth labels can systematically distort fairness audits, evaluating this on cervical spine segmentation. My first supervision paper.",
+    "links": {
+      "paper": "",
+      "arxiv": "https://arxiv.org/abs/2607.07852",
+      "code": ""
+    }
+  },
+  {
     "title": "Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation",
     "authors": "Aditya Parikh, Stella Frank, Sneha Das, Aasa Feragen",
     "venue": "Under review",
@@ -21,10 +39,10 @@
   {
     "title": "Measuring What VLMs Don't Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation",
     "authors": "Aditya Parikh, Aasa Feragen, Sneha Das, Stella Frank",
-    "venue": "Under review",
+    "venue": "MICCAI",
     "year": 2026,
     "tags": [
-      "under-review",
+      "accepted",
       "first-author",
       "radiology-vlm",
       "metrics-gap"

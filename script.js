@@ -19,7 +19,9 @@ const ICONS = {
 const TAG_LABELS = {
   'oral': 'Oral',
   'under-review': 'Under Review',
+  'accepted': 'Accepted',
   'first-author': '1st Author',
+  'last-author': 'Last Author',
   'equal-contribution': 'Equal Contrib.',
   'workshop': 'Workshop',
   'journal': 'Journal',

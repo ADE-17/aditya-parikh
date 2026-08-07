@@ -1,5 +1,20 @@
 [
   {
+    "date": "August 2026",
+    "title": "Attended EEML Summer School by DeepMind",
+    "details": "Presented a poster from 26th July to 2nd August."
+  },
+  {
+    "date": "August 2026",
+    "title": "Paper Accepted to MICCAI 2026",
+    "details": "Our paper 'Measuring What VLMs Don't Say' got accepted! I will be in Strasbourg to present it."
+  },
+  {
+    "date": "July 2026",
+    "title": "New Paper Accepted at MICCAI FAIMI Workshop",
+    "details": "My first supervision paper: 'False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation' by Linus Juni, Aasa Feragen, Aditya Parikh."
+  },
+  {
     "date": "May 2026",
     "title": "Preprint Out: Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation",
     "details": "New work on label bias in image segmentation."

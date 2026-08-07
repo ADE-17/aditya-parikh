@@ -126,6 +126,18 @@
   ],
   "photography": [
     {
+      "title": "Attended EEML Summer School",
+      "caption": "Group photo at the Eastern European Machine Learning (EEML) Summer School by DeepMind.",
+      "src": "assets/photos/eeml_group.jpg",
+      "alt": "EEML Group Photo"
+    },
+    {
+      "title": "Poster Presentation at EEML",
+      "caption": "Presenting my poster at the EEML Summer School.",
+      "src": "assets/photos/eeml_poster.jpg",
+      "alt": "EEML Poster Presentation"
+    },
+    {
       "title": "Towards Fairness under Label Bias in Image Segmentation",
       "caption": "Label bias is insidious: We measure and mitigate it in image segmentation without clean, unbiased ground truth labels even when standard metrics don't allow.",
       "src": "assets/photos/1.png",
